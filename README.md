@@ -60,8 +60,8 @@ input[type="text"] {
 }
 
 button {
-    padding: 15px;
-    font-size: 18px;
+    padding: 16px;
+    font-size: 19px;
     border-radius: 5px;
     border: none;
     cursor: pointer;
